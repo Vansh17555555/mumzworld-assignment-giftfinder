@@ -4,6 +4,9 @@ An AI-powered gift finder for Mumzworld, designed to understand natural language
 
 Built with React, Tailwind CSS, Express, and NVIDIA Nemotron-3-Nano-30B via OpenRouter.
 
+## Demo
+[3-minute walkthrough →](https://www.loom.com/share/fe4393413da04114b81d19b7bd86c6d9)
+
 ## Setup
 
 Get the application running in under 5 minutes.
@@ -65,3 +68,18 @@ Detailed results will be printed to the console, scoring the model out of 120 po
 
 ## Tradeoffs Summary
 A Gift Finder was chosen to directly address decision fatigue in baby/mom e-commerce. NVIDIA Nemotron-3-Nano was selected for its high performance and low latency. A mock catalog ensures deterministic testing and rich bilingual data without the fragility of web scraping. Future iterations would include a vector database for semantic search across the full catalog, product images, and direct cart integration. For full details, see `TRADEOFFS.md`.
+
+## AI Usage
+- **Claude Code / Antigravity Agent** — scaffolded the full project structure, backend, frontend, and eval script
+- **NVIDIA Nemotron-3-Nano-30B via OpenRouter** — powers the gift recommendation engine at runtime
+- **Claude (claude.ai)** — prompt iteration, debugging, architecture decisions
+Heavy AI-assisted workflow throughout. Every line reviewed and understood before submission.
+
+## Time Log
+- Problem selection + design: 30 mins
+- Backend + catalog generation: 1.5 hours
+- Frontend: 1 hour
+- Evals: 45 mins
+- README + docs: 30 mins
+- Loom recording: 30 mins
+- Total: ~5 hours
