@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .rtl {
+    direction: rtl;
+  }
+  .ltr {
+    direction: ltr;
+  }
+}

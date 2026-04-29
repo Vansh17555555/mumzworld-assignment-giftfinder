@@ -1,0 +1,980 @@
+[
+  {
+    "id": "f1",
+    "name_en": "Philips Avent Natural Baby Bottle, 260ml",
+    "name_ar": "رضّاعة أطفال ناتشورال من فيليبس أفينت، 260 مل",
+    "category": "feeding",
+    "age_min_months": 1,
+    "age_max_months": 12,
+    "price_aed": 45,
+    "tags": [
+      "feeding",
+      "bottle",
+      "anti-colic",
+      "bpa-free"
+    ],
+    "description_en": "A natural baby bottle with an ultra-soft teat that closely resembles the breast. It features an anti-colic valve designed to keep air away from your baby's tummy.",
+    "description_ar": "رضّاعة طبيعية بحلمة فائقة النعومة تشبه الثدي إلى حد كبير. تتميز بصمام مضاد للمغص مصمم لإبعاد الهواء عن بطن طفلك."
+  },
+  {
+    "id": "f2",
+    "name_en": "Pigeon Baby Feeding Spoon Set",
+    "name_ar": "طقم ملاعق إطعام للأطفال من بيجون",
+    "category": "feeding",
+    "age_min_months": 6,
+    "age_max_months": 24,
+    "price_aed": 35,
+    "tags": [
+      "feeding",
+      "weaning",
+      "spoon"
+    ],
+    "description_en": "Soft-tipped feeding spoons designed to be gentle on baby's gums during weaning. The ergonomic handle makes it easy for parents to feed their little ones.",
+    "description_ar": "ملاعق إطعام ذات أطراف ناعمة مصممة لتكون لطيفة على لثة الطفل أثناء الفطام. المقبض المريح يسهل على الآباء إطعام صغارهم."
+  },
+  {
+    "id": "f3",
+    "name_en": "Chicco Polly Magic Relax Highchair",
+    "name_ar": "كرسي طعام بولي ماجيك ريلاكس من شيكو",
+    "category": "feeding",
+    "age_min_months": 0,
+    "age_max_months": 36,
+    "price_aed": 499,
+    "tags": [
+      "feeding",
+      "highchair",
+      "furniture",
+      "comfort"
+    ],
+    "description_en": "A versatile highchair that reclines fully for newborns and transforms into a dining chair for toddlers. Features a premium wipeable seat pad and a removable toy bar.",
+    "description_ar": "كرسي طعام متعدد الاستخدامات قابل للإمالة بالكامل لحديثي الولادة ويتحول إلى كرسي طعام للأطفال الصغار. يتميز بوسادة مقعد ممتازة قابلة للمسح وشريط ألعاب قابل للإزالة."
+  },
+  {
+    "id": "f4",
+    "name_en": "Skip Hop Zoo Silicone Bib",
+    "name_ar": "مريلة سيليكون للأطفال بتصميم حديقة الحيوان من سكيب هوب",
+    "category": "feeding",
+    "age_min_months": 6,
+    "age_max_months": 36,
+    "price_aed": 65,
+    "tags": [
+      "feeding",
+      "bib",
+      "silicone",
+      "easy-clean"
+    ],
+    "description_en": "A soft, food-safe silicone bib featuring a deep pocket to catch crumbs. Easily wipes down for quick cleanup after messy meals.",
+    "description_ar": "مريلة سيليكون ناعمة وآمنة للطعام تتميز بجيب عميق لالتقاط الفتات. يسهل مسحها لتنظيف سريع بعد الوجبات الفوضوية."
+  },
+  {
+    "id": "f5",
+    "name_en": "NUK Learner Cup, 150ml",
+    "name_ar": "كوب تعليمي للأطفال من نوك، 150 مل",
+    "category": "feeding",
+    "age_min_months": 6,
+    "age_max_months": 18,
+    "price_aed": 55,
+    "tags": [
+      "feeding",
+      "cup",
+      "transition",
+      "spill-proof"
+    ],
+    "description_en": "Helps ease the transition from bottle to cup with a soft silicone spout. Spill-proof design and easy-to-grip handles for little hands.",
+    "description_ar": "يساعد في تسهيل الانتقال من الرضّاعة إلى الكوب بفضل الفوهة المصنوعة من السيليكون الناعم. تصميم مقاوم للانسكاب ومقابض سهلة الإمساك للأيدي الصغيرة."
+  },
+  {
+    "id": "f6",
+    "name_en": "Mothercare 4-in-1 Baby Food Maker",
+    "name_ar": "محضرة طعام الأطفال 4 في 1 من مذركير",
+    "category": "feeding",
+    "age_min_months": 6,
+    "age_max_months": 24,
+    "price_aed": 350,
+    "tags": [
+      "feeding",
+      "food-prep",
+      "weaning"
+    ],
+    "description_en": "Steams, blends, defrosts, and reheats baby food efficiently. Allows parents to prepare nutritious, homemade meals with minimal effort.",
+    "description_ar": "تقوم بطهي الطعام بالبخار ومزجه وإذابة تجميده وإعادة تسخينه بكفاءة. تسمح للآباء بتحضير وجبات مغذية منزلية الصنع بأقل جهد."
+  },
+  {
+    "id": "f7",
+    "name_en": "Philips Avent Breast Milk Storage Bags",
+    "name_ar": "أكياس تخزين حليب الأم من فيليبس أفينت",
+    "category": "feeding",
+    "age_min_months": 0,
+    "age_max_months": 12,
+    "price_aed": 40,
+    "tags": [
+      "feeding",
+      "breastfeeding",
+      "storage"
+    ],
+    "description_en": "Pre-sterilized bags with secure double zippers to safely store breast milk in the fridge or freezer. Lie flat for compact storage.",
+    "description_ar": "أكياس معقمة مسبقاً بسحاب مزدوج آمن لتخزين حليب الأم بأمان في الثلاجة أو الفريزر. توضع بشكل مسطح لتخزين مدمج."
+  },
+  {
+    "id": "t1",
+    "name_en": "Fisher-Price Kick & Play Piano Gym",
+    "name_ar": "صالة ألعاب رياضية بيانو كيك آند بلاي من فيشر برايس",
+    "category": "toys",
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "price_aed": 199,
+    "tags": [
+      "toys",
+      "educational",
+      "music",
+      "development"
+    ],
+    "description_en": "An interactive playmat with a kick-activated piano and colorful toys. Helps develop gross motor skills and introduces baby to cause and effect.",
+    "description_ar": "سجادة لعب تفاعلية مع بيانو يتم تنشيطه بالركل وألعاب ملونة. تساعد في تطوير المهارات الحركية الكبرى وتعرف الطفل على السبب والنتيجة."
+  },
+  {
+    "id": "t2",
+    "name_en": "Skip Hop Explore & More Follow-Bee Crawl Toy",
+    "name_ar": "لعبة النحلة الزاحفة إكسبلور آند مور من سكيب هوب",
+    "category": "toys",
+    "age_min_months": 6,
+    "age_max_months": 24,
+    "price_aed": 120,
+    "tags": [
+      "toys",
+      "crawling",
+      "musical",
+      "interactive"
+    ],
+    "description_en": "A motorized crawling toy that challenges babies to crawl. Features colorful lights, energetic tunes, and sweet buzzing sounds.",
+    "description_ar": "لعبة زحف آلية تحفز الأطفال على الزحف. تتميز بأضواء ملونة وألحان حيوية وأصوات طنين لطيفة."
+  },
+  {
+    "id": "t3",
+    "name_en": "Chicco First Dreams Baby Bear",
+    "name_ar": "لعبة الدب فيرست دريمز للأطفال من شيكو",
+    "category": "toys",
+    "age_min_months": 0,
+    "age_max_months": 36,
+    "price_aed": 145,
+    "tags": [
+      "toys",
+      "plush",
+      "sleep",
+      "nightlight"
+    ],
+    "description_en": "A soft plush bear with gentle glowing lights and soothing melodies. Perfect for comforting babies at bedtime.",
+    "description_ar": "دب قطيفة ناعم مع أضواء متوهجة لطيفة وألحان مهدئة. مثالي لتهدئة الأطفال في وقت النوم."
+  },
+  {
+    "id": "t4",
+    "name_en": "Fisher-Price Rock-a-Stack",
+    "name_ar": "لعبة الحلقات الملونة روك أستاك من فيشر برايس",
+    "category": "toys",
+    "age_min_months": 6,
+    "age_max_months": 24,
+    "price_aed": 45,
+    "tags": [
+      "toys",
+      "stacking",
+      "educational",
+      "classic"
+    ],
+    "description_en": "Classic stacking toy with five colorful rings to grasp and stack. Introduces babies to relative size and color sorting.",
+    "description_ar": "لعبة تكديس كلاسيكية بخمس حلقات ملونة للإمساك بها وتكديسها. تعرف الأطفال على الحجم النسبي وفرز الألوان."
+  },
+  {
+    "id": "t5",
+    "name_en": "Mamas & Papas Tummy Time Snuggle Rug",
+    "name_ar": "سجادة وقت الاستلقاء على البطن من ماماز وباباز",
+    "category": "toys",
+    "age_min_months": 0,
+    "age_max_months": 6,
+    "price_aed": 220,
+    "tags": [
+      "toys",
+      "tummy-time",
+      "soft",
+      "sensory"
+    ],
+    "description_en": "A luxuriously soft rug designed to make tummy time comfortable and fun. Includes engaging sensory features like crinkle textures and a baby-safe mirror.",
+    "description_ar": "سجادة ناعمة فاخرة مصممة لجعل وقت الاستلقاء على البطن مريحاً وممتعاً. تتضمن ميزات حسية جذابة مثل الأنسجة المجعدة ومرآة آمنة للأطفال."
+  },
+  {
+    "id": "t6",
+    "name_en": "Mothercare Wooden Activity Cube",
+    "name_ar": "مكعب الأنشطة الخشبي من مذركير",
+    "category": "toys",
+    "age_min_months": 12,
+    "age_max_months": 36,
+    "price_aed": 175,
+    "tags": [
+      "toys",
+      "educational",
+      "wooden",
+      "motor-skills"
+    ],
+    "description_en": "A robust wooden activity center with shape sorters, bead mazes, and turning gears. Encourages problem-solving and fine motor skill development.",
+    "description_ar": "مركز أنشطة خشبي متين يحتوي على أدوات لفرز الأشكال ومتاهات الخرز وتروس دوارة. يشجع على حل المشكلات وتنمية المهارات الحركية الدقيقة."
+  },
+  {
+    "id": "t7",
+    "name_en": "Pigeon Teething Ring",
+    "name_ar": "حلقة تسنين للأطفال من بيجون",
+    "category": "toys",
+    "age_min_months": 3,
+    "age_max_months": 12,
+    "price_aed": 30,
+    "tags": [
+      "toys",
+      "teething",
+      "soothing"
+    ],
+    "description_en": "A textured, easy-to-hold teething ring that provides gentle massage to sore gums. Can be chilled in the refrigerator for extra relief.",
+    "description_ar": "حلقة تسنين بارزة الملمس وسهلة الإمساك توفر تدليكاً لطيفاً للثة المؤلمة. يمكن تبريدها في الثلاجة للحصول على راحة إضافية."
+  },
+  {
+    "id": "c1",
+    "name_en": "Mothercare Newborn Cotton Sleepsuits (Pack of 3)",
+    "name_ar": "ملابس نوم قطنية لحديثي الولادة من مذركير (عبوة من 3 قطع)",
+    "category": "clothing",
+    "age_min_months": 0,
+    "age_max_months": 6,
+    "price_aed": 110,
+    "tags": [
+      "clothing",
+      "sleep",
+      "cotton",
+      "unisex"
+    ],
+    "description_en": "Soft, breathable 100% cotton sleepsuits with integrated scratch mitts. Features popper openings for easy diaper changes.",
+    "description_ar": "ملابس نوم ناعمة وقابلة للتنفس من القطن بنسبة 100% مع قفازات مدمجة لمنع الخدش. تتميز بفتحات كبس لسهولة تغيير الحفاضات."
+  },
+  {
+    "id": "c2",
+    "name_en": "Mamas & Papas Baby Girl Floral Dress",
+    "name_ar": "فستان بناتي مزين بالزهور من ماماز وباباز",
+    "category": "clothing",
+    "age_min_months": 6,
+    "age_max_months": 24,
+    "price_aed": 150,
+    "tags": [
+      "clothing",
+      "girl",
+      "party",
+      "dress"
+    ],
+    "description_en": "A beautiful floral print dress for special occasions, made from comfortable cotton blend. Includes matching bloomers.",
+    "description_ar": "فستان جميل بطبعة زهور للمناسبات الخاصة، مصنوع من مزيج قطني مريح. يأتي مع سروال داخلي مطابق."
+  },
+  {
+    "id": "c3",
+    "name_en": "Chicco Boy's Denim Overalls",
+    "name_ar": "أفرول جينز للأولاد من شيكو",
+    "category": "clothing",
+    "age_min_months": 9,
+    "age_max_months": 36,
+    "price_aed": 135,
+    "tags": [
+      "clothing",
+      "boy",
+      "casual",
+      "durable"
+    ],
+    "description_en": "Stylish and durable denim overalls for active toddlers. Adjustable straps ensure a perfect fit as your child grows.",
+    "description_ar": "أفرول جينز أنيق ومتين للأطفال الصغار النشطين. أحزمة قابلة للتعديل تضمن ملاءمة مثالية مع نمو طفلك."
+  },
+  {
+    "id": "c4",
+    "name_en": "Mothercare Baby Bodysuits (Pack of 5)",
+    "name_ar": "ملابس داخلية (بودي سوت) للأطفال من مذركير (عبوة من 5 قطع)",
+    "category": "clothing",
+    "age_min_months": 0,
+    "age_max_months": 18,
+    "price_aed": 85,
+    "tags": [
+      "clothing",
+      "essential",
+      "cotton",
+      "unisex"
+    ],
+    "description_en": "Essential daily wear bodysuits with envelope necklines for easy dressing. Made from premium, gentle cotton for baby's sensitive skin.",
+    "description_ar": "ملابس داخلية أساسية للارتداء اليومي بياقة متداخلة لسهولة الارتداء. مصنوعة من قطن فاخر ولطيف على بشرة الطفل الحساسة."
+  },
+  {
+    "id": "c5",
+    "name_en": "Skip Hop Zoo Winter Knit Hat & Mittens Set",
+    "name_ar": "طقم قبعة وقفازات شتوية محبوكة بتصميم حديقة الحيوان من سكيب هوب",
+    "category": "clothing",
+    "age_min_months": 12,
+    "age_max_months": 36,
+    "price_aed": 95,
+    "tags": [
+      "clothing",
+      "winter",
+      "outdoor",
+      "accessories"
+    ],
+    "description_en": "Keep your little one warm with this cute animal-themed knit hat and matching mittens. Fleece-lined for extra cozy comfort.",
+    "description_ar": "حافظي على دفء طفلك الصغير مع هذه القبعة المحبوكة اللطيفة بتصميم الحيوانات والقفازات المطابقة. مبطنة بالصوف لراحة ودفء إضافي."
+  },
+  {
+    "id": "c6",
+    "name_en": "Mamas & Papas Knitted Cardigan",
+    "name_ar": "كارديجان محبوك من ماماز وباباز",
+    "category": "clothing",
+    "age_min_months": 3,
+    "age_max_months": 24,
+    "price_aed": 125,
+    "tags": [
+      "clothing",
+      "layering",
+      "stylish",
+      "warm"
+    ],
+    "description_en": "A classic chunky knit cardigan, perfect for layering on cooler days. Features stylish wooden buttons.",
+    "description_ar": "كارديجان كلاسيكي محبوك بغرزة سميكة، مثالي للارتداء فوق الملابس في الأيام الباردة. يتميز بأزرار خشبية أنيقة."
+  },
+  {
+    "id": "c7",
+    "name_en": "Mothercare Anti-Slip Baby Socks (Pack of 4)",
+    "name_ar": "جوارب أطفال مانعة للانزلاق من مذركير (عبوة من 4 أزواج)",
+    "category": "clothing",
+    "age_min_months": 6,
+    "age_max_months": 24,
+    "price_aed": 45,
+    "tags": [
+      "clothing",
+      "accessories",
+      "safety",
+      "walking"
+    ],
+    "description_en": "Comfortable cotton socks with rubber grips on the soles to help prevent slips and falls as babies learn to walk.",
+    "description_ar": "جوارب قطنية مريحة مزودة بمقابض مطاطية على النعل للمساعدة في منع الانزلاق والسقوط عندما يتعلم الأطفال المشي."
+  },
+  {
+    "id": "s1",
+    "name_en": "Mothercare Baby Bath Wash, 500ml",
+    "name_ar": "غسول استحمام للأطفال من مذركير، 500 مل",
+    "category": "skincare",
+    "age_min_months": 0,
+    "age_max_months": 60,
+    "price_aed": 45,
+    "tags": [
+      "skincare",
+      "bath",
+      "gentle",
+      "tear-free"
+    ],
+    "description_en": "A tear-free, gentle baby wash formulated with natural extracts to cleanse without drying. Hypoallergenic and safe for daily use.",
+    "description_ar": "غسول لطيف للأطفال لا يسبب الدموع، مركب من مستخلصات طبيعية للتنظيف دون جفاف. مضاد للحساسية وآمن للاستخدام اليومي."
+  },
+  {
+    "id": "s2",
+    "name_en": "Chicco Baby Moments Body Lotion",
+    "name_ar": "لوشن للجسم بيبي مومنتس من شيكو",
+    "category": "skincare",
+    "age_min_months": 0,
+    "age_max_months": 60,
+    "price_aed": 55,
+    "tags": [
+      "skincare",
+      "moisturizer",
+      "sensitive",
+      "sweet-almond"
+    ],
+    "description_en": "Nourishing body lotion enriched with sweet almond milk to deeply moisturize baby's delicate skin. Fast-absorbing and non-greasy.",
+    "description_ar": "لوشن مغذي للجسم غني بحليب اللوز الحلو لترطيب بشرة الطفل الرقيقة بعمق. سريع الامتصاص وغير دهني."
+  },
+  {
+    "id": "s3",
+    "name_en": "Pigeon Baby Wipes (Pack of 3)",
+    "name_ar": "مناديل مبللة للأطفال من بيجون (عبوة من 3 قطع)",
+    "category": "skincare",
+    "age_min_months": 0,
+    "age_max_months": 36,
+    "price_aed": 35,
+    "tags": [
+      "skincare",
+      "wipes",
+      "hygiene",
+      "fragrance-free"
+    ],
+    "description_en": "Thick and soft baby wipes made with 99% pure water. Fragrance-free and gentle enough for hands, face, and diaper area.",
+    "description_ar": "مناديل مبللة سميكة وناعمة للأطفال مصنوعة من ماء نقي بنسبة 99٪. خالية من العطور ولطيفة بما يكفي لليدين والوجه ومنطقة الحفاض."
+  },
+  {
+    "id": "s4",
+    "name_en": "Mustela Diaper Rash Cream 123",
+    "name_ar": "كريم طفح الحفاض 123 من موستيلا",
+    "category": "skincare",
+    "age_min_months": 0,
+    "age_max_months": 36,
+    "price_aed": 48,
+    "tags": [
+      "skincare",
+      "diaper",
+      "healing",
+      "zinc-oxide"
+    ],
+    "description_en": "A comprehensive barrier cream that prevents, relieves, and recovers skin from diaper rash irritation. Fragrance-free formula.",
+    "description_ar": "كريم حاجز شامل يمنع ويخفف ويعالج البشرة من تهيج طفح الحفاض. تركيبة خالية من العطور."
+  },
+  {
+    "id": "s5",
+    "name_en": "Philips Avent Baby Care Set",
+    "name_ar": "طقم العناية بالطفل من فيليبس أفينت",
+    "category": "skincare",
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "price_aed": 110,
+    "tags": [
+      "skincare",
+      "grooming",
+      "kit",
+      "gift"
+    ],
+    "description_en": "A complete baby grooming kit including a digital thermometer, nasal aspirator, nail care tools, and hairbrush. Comes in a compact case.",
+    "description_ar": "مجموعة كاملة للعناية بالطفل تتضمن مقياس حرارة رقمي، وشفاط أنف، وأدوات للعناية بالأظافر، وفرشاة شعر. تأتي في حقيبة مدمجة."
+  },
+  {
+    "id": "s6",
+    "name_en": "Sebamed Baby Wash Extra Soft",
+    "name_ar": "غسول أطفال فائق النعومة من سيباميد",
+    "category": "skincare",
+    "age_min_months": 0,
+    "age_max_months": 36,
+    "price_aed": 60,
+    "tags": [
+      "skincare",
+      "bath",
+      "ph-balanced",
+      "sensitive"
+    ],
+    "description_en": "A 100% soap-free and alkali-free wash that supports the development of the skin's protective acid mantle with pH 5.5.",
+    "description_ar": "غسول خالٍ من الصابون والقلويات بنسبة 100٪ يدعم تطور الغلاف الحمضي الواقي للبشرة بدرجة حموضة 5.5."
+  },
+  {
+    "id": "s7",
+    "name_en": "Mothercare Baby Massage Oil",
+    "name_ar": "زيت تدليك للأطفال من مذركير",
+    "category": "skincare",
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "price_aed": 40,
+    "tags": [
+      "skincare",
+      "massage",
+      "relaxing",
+      "bonding"
+    ],
+    "description_en": "A mild, non-greasy oil perfect for a relaxing baby massage before bedtime. Helps nourish the skin and promotes bonding.",
+    "description_ar": "زيت لطيف وغير دهني مثالي لتدليك الطفل للاسترخاء قبل النوم. يساعد على تغذية البشرة ويعزز الترابط بين الأم والطفل."
+  },
+  {
+    "id": "n1",
+    "name_en": "Mamas & Papas Lua Bedside Crib",
+    "name_ar": "سرير أطفال جانبي لوا من ماماز وباباز",
+    "category": "nursery",
+    "age_min_months": 0,
+    "age_max_months": 6,
+    "price_aed": 499,
+    "tags": [
+      "nursery",
+      "sleep",
+      "crib",
+      "co-sleeping"
+    ],
+    "description_en": "A stylish bedside crib that allows you to sleep safely next to your baby. Features breathable mesh panels and adjustable height.",
+    "description_ar": "سرير أطفال جانبي أنيق يتيح لك النوم بأمان بجوار طفلك. يتميز بألواح شبكية قابلة للتنفس وارتفاع قابل للتعديل."
+  },
+  {
+    "id": "n2",
+    "name_en": "Chicco Next2Me Magic Evo Co-Sleeping Crib",
+    "name_ar": "سرير أطفال نيكست تو مي ماجيك إيفو من شيكو",
+    "category": "nursery",
+    "age_min_months": 0,
+    "age_max_months": 6,
+    "price_aed": 480,
+    "tags": [
+      "nursery",
+      "sleep",
+      "crib",
+      "convenience"
+    ],
+    "description_en": "Innovative co-sleeping crib with a one-hand opening panel and a rocking mechanism to easily soothe baby back to sleep.",
+    "description_ar": "سرير أطفال مبتكر للرضاعة الليلية بلوح يفتح بيد واحدة وآلية هز لتهدئة الطفل وإعادته للنوم بسهولة."
+  },
+  {
+    "id": "n3",
+    "name_en": "Fisher-Price Luminate Bassinet",
+    "name_ar": "سرير أطفال لومينيت من فيشر برايس",
+    "category": "nursery",
+    "age_min_months": 0,
+    "age_max_months": 5,
+    "price_aed": 450,
+    "tags": [
+      "nursery",
+      "sleep",
+      "smart",
+      "soothing"
+    ],
+    "description_en": "A smart bassinet featuring gentle vibrations, soft floor lighting, and customizable soothing sounds controlled via an app.",
+    "description_ar": "سرير أطفال ذكي يتميز باهتزازات لطيفة وإضاءة أرضية خافتة وأصوات مهدئة قابلة للتخصيص يتم التحكم فيها عبر التطبيق."
+  },
+  {
+    "id": "n4",
+    "name_en": "Mothercare Breathable Cot Mattress",
+    "name_ar": "مرتبة سرير قابلة للتنفس من مذركير",
+    "category": "nursery",
+    "age_min_months": 0,
+    "age_max_months": 36,
+    "price_aed": 299,
+    "tags": [
+      "nursery",
+      "sleep",
+      "mattress",
+      "safety"
+    ],
+    "description_en": "A firm, supportive cot mattress with a breathable, washable cover. Designed to maintain optimal temperature for a safe night's sleep.",
+    "description_ar": "مرتبة سرير متينة وداعمة بغطاء قابل للتنفس والغسل. مصممة للحفاظ على درجة الحرارة المثالية لنوم آمن ومريح ليلاً."
+  },
+  {
+    "id": "n5",
+    "name_en": "Skip Hop Moonlight & Melodies Nightlight Soother",
+    "name_ar": "جهاز إضاءة ليلية وتهدئة مونلايت آند ميلوديز من سكيب هوب",
+    "category": "nursery",
+    "age_min_months": 0,
+    "age_max_months": 60,
+    "price_aed": 185,
+    "tags": [
+      "nursery",
+      "sleep",
+      "nightlight",
+      "sound-machine"
+    ],
+    "description_en": "An elegant owl-shaped nightlight and sound machine that projects stars onto the ceiling. Plays multiple melodies and nature sounds.",
+    "description_ar": "جهاز إضاءة ليلية وصوت أنيق على شكل بومة يعرض نجوماً على السقف. يعزف ألحاناً متعددة وأصواتاً من الطبيعة."
+  },
+  {
+    "id": "n6",
+    "name_en": "Mamas & Papas Nursery Mobile",
+    "name_ar": "لعبة دوارة لسرير الطفل من ماماز وباباز",
+    "category": "nursery",
+    "age_min_months": 0,
+    "age_max_months": 6,
+    "price_aed": 150,
+    "tags": [
+      "nursery",
+      "decor",
+      "mobile",
+      "soothing"
+    ],
+    "description_en": "A beautiful musical mobile featuring soft hanging characters to engage and soothe baby while in the crib.",
+    "description_ar": "لعبة دوارة موسيقية جميلة تتميز بشخصيات معلقة ناعمة لجذب انتباه الطفل وتهدئته أثناء وجوده في السرير."
+  },
+  {
+    "id": "n7",
+    "name_en": "Philips Avent Smart Baby Monitor",
+    "name_ar": "جهاز مراقبة الأطفال الذكي من فيليبس أفينت",
+    "category": "nursery",
+    "age_min_months": 0,
+    "age_max_months": 60,
+    "price_aed": 490,
+    "tags": [
+      "nursery",
+      "monitor",
+      "safety",
+      "smart"
+    ],
+    "description_en": "A high-definition video baby monitor with an app connection, secure connection, and room temperature tracking for peace of mind.",
+    "description_ar": "جهاز مراقبة فيديو عالي الدقة للأطفال مع اتصال بالتطبيق واتصال آمن وتتبع درجة حرارة الغرفة لراحة البال."
+  },
+  {
+    "id": "tr1",
+    "name_en": "Chicco Lite Way 3 Stroller",
+    "name_ar": "عربة أطفال لايت واي 3 من شيكو",
+    "category": "travel",
+    "age_min_months": 0,
+    "age_max_months": 36,
+    "price_aed": 450,
+    "tags": [
+      "travel",
+      "stroller",
+      "lightweight",
+      "outdoor"
+    ],
+    "description_en": "A lightweight, compact umbrella-fold stroller that is easy to maneuver. Features a fully reclinable backrest suitable from birth.",
+    "description_ar": "عربة أطفال خفيفة الوزن ومدمجة قابلة للطي على شكل مظلة، سهلة التوجيه. تتميز بمسند ظهر قابل للإمالة بالكامل ومناسب منذ الولادة."
+  },
+  {
+    "id": "tr2",
+    "name_en": "Skip Hop Forma Backpack Diaper Bag",
+    "name_ar": "حقيبة حفاضات ظهر فورما من سكيب هوب",
+    "category": "travel",
+    "age_min_months": 0,
+    "age_max_months": 48,
+    "price_aed": 350,
+    "tags": [
+      "travel",
+      "diaper-bag",
+      "convenience",
+      "organization"
+    ],
+    "description_en": "A stylish and functional diaper backpack featuring multiple compartments and packing cubes to keep baby essentials organized on the go.",
+    "description_ar": "حقيبة ظهر للحفاضات أنيقة وعملية تتميز بمقصورات متعددة ومكعبات تعبئة للحفاظ على أساسيات الطفل منظمة أثناء التنقل."
+  },
+  {
+    "id": "tr3",
+    "name_en": "Mothercare Baby Carrier",
+    "name_ar": "حمالة أطفال من مذركير",
+    "category": "travel",
+    "age_min_months": 3,
+    "age_max_months": 18,
+    "price_aed": 220,
+    "tags": [
+      "travel",
+      "carrier",
+      "bonding",
+      "ergonomic"
+    ],
+    "description_en": "An ergonomic 3-way baby carrier that distributes weight evenly across the back and shoulders. Supports inward and outward facing positions.",
+    "description_ar": "حمالة أطفال مريحة بثلاث وضعيات توزع الوزن بالتساوي على الظهر والكتفين. تدعم وضعيات المواجهة للداخل والخارج."
+  },
+  {
+    "id": "tr4",
+    "name_en": "Fisher-Price Portable Baby Chair",
+    "name_ar": "كرسي أطفال محمول من فيشر برايس",
+    "category": "travel",
+    "age_min_months": 6,
+    "age_max_months": 36,
+    "price_aed": 140,
+    "tags": [
+      "travel",
+      "feeding",
+      "portable",
+      "convenience"
+    ],
+    "description_en": "A compact folding booster seat that straps easily to most dining chairs. Perfect for travel or dining out with your toddler.",
+    "description_ar": "مقعد داعم قابل للطي ومدمج يُربط بسهولة بمعظم كراسي الطعام. مثالي للسفر أو تناول الطعام بالخارج مع طفلك الدارج."
+  },
+  {
+    "id": "tr5",
+    "name_en": "Mamas & Papas Stroller Organizer",
+    "name_ar": "منظم لعربة الأطفال من ماماز وباباز",
+    "category": "travel",
+    "age_min_months": 0,
+    "age_max_months": 36,
+    "price_aed": 90,
+    "tags": [
+      "travel",
+      "accessories",
+      "stroller",
+      "organization"
+    ],
+    "description_en": "A handy organizer that attaches to the stroller handle, keeping drinks, keys, and phones within easy reach during walks.",
+    "description_ar": "منظم عملي يُثبت على مقبض عربة الأطفال، مما يبقي المشروبات والمفاتيح والهواتف في متناول اليد بسهولة أثناء المشي."
+  },
+  {
+    "id": "tr6",
+    "name_en": "Chicco Car Seat Protector",
+    "name_ar": "واقي مقعد السيارة من شيكو",
+    "category": "travel",
+    "age_min_months": 0,
+    "age_max_months": 60,
+    "price_aed": 75,
+    "tags": [
+      "travel",
+      "car-seat",
+      "safety",
+      "accessories"
+    ],
+    "description_en": "A durable mat that sits under the baby car seat to protect your vehicle's upholstery from spills, scuffs, and indentations.",
+    "description_ar": "سجادة متينة توضع تحت مقعد سيارة الطفل لحماية فرش سيارتك من الانسكابات والخدوش والآثار."
+  },
+  {
+    "id": "tr7",
+    "name_en": "Skip Hop Pronto Baby Changing Station",
+    "name_ar": "محطة تغيير حفاضات الأطفال برونتو من سكيب هوب",
+    "category": "travel",
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "price_aed": 135,
+    "tags": [
+      "travel",
+      "diaper-change",
+      "portable",
+      "convenience"
+    ],
+    "description_en": "A portable diaper changing kit featuring an extra-wide wipe-clean pad, wipes case, and pockets for diapers and creams.",
+    "description_ar": "مجموعة محمولة لتغيير الحفاضات تتميز بوسادة عريضة للغاية قابلة للمسح، وحافظة مناديل، وجيوب للحفاضات والكريمات."
+  },
+  {
+    "id": "sf1",
+    "name_en": "Mothercare Retractable Stair Gate",
+    "name_ar": "بوابة سلالم قابلة للسحب من مذركير",
+    "category": "safety",
+    "age_min_months": 6,
+    "age_max_months": 24,
+    "price_aed": 240,
+    "tags": [
+      "safety",
+      "home-proofing",
+      "gate",
+      "toddler"
+    ],
+    "description_en": "A sleek and space-saving retractable gate to keep toddlers away from stairs and hazardous areas. Rolls up completely when not in use.",
+    "description_ar": "بوابة أنيقة وموفرة للمساحة قابلة للسحب لإبقاء الأطفال الصغار بعيداً عن السلالم والمناطق الخطرة. تُلف بالكامل عند عدم الاستخدام."
+  },
+  {
+    "id": "sf2",
+    "name_en": "Chicco Edge & Corner Guards Set",
+    "name_ar": "طقم واقيات حواف وزوايا من شيكو",
+    "category": "safety",
+    "age_min_months": 6,
+    "age_max_months": 36,
+    "price_aed": 55,
+    "tags": [
+      "safety",
+      "home-proofing",
+      "protection"
+    ],
+    "description_en": "Soft, shock-absorbing foam cushions to cover sharp edges and corners on furniture, protecting active toddlers from bumps and bruises.",
+    "description_ar": "وسائد إسفنجية ناعمة ماصة للصدمات لتغطية الحواف والزوايا الحادة للأثاث، لحماية الأطفال الصغار النشطين من الصدمات والكدمات."
+  },
+  {
+    "id": "sf3",
+    "name_en": "Philips Avent Cabinet Locks (Pack of 6)",
+    "name_ar": "أقفال خزائن من فيليبس أفينت (عبوة من 6 قطع)",
+    "category": "safety",
+    "age_min_months": 9,
+    "age_max_months": 36,
+    "price_aed": 45,
+    "tags": [
+      "safety",
+      "home-proofing",
+      "locks"
+    ],
+    "description_en": "Easy-to-install magnetic safety locks that keep curious little ones out of cabinets containing cleaning supplies or dangerous objects.",
+    "description_ar": "أقفال أمان مغناطيسية سهلة التركيب تُبقي الصغار الفضوليين بعيداً عن الخزائن التي تحتوي على مواد تنظيف أو أشياء خطيرة."
+  },
+  {
+    "id": "sf4",
+    "name_en": "Mamas & Papas Bath Safety Mat",
+    "name_ar": "سجادة أمان للاستحمام من ماماز وباباز",
+    "category": "safety",
+    "age_min_months": 6,
+    "age_max_months": 48,
+    "price_aed": 65,
+    "tags": [
+      "safety",
+      "bath",
+      "anti-slip"
+    ],
+    "description_en": "A large, anti-slip bath mat with strong suction cups to secure firmly to the tub floor, preventing slips during bath time.",
+    "description_ar": "سجادة استحمام كبيرة مانعة للانزلاق مع أكواب شفط قوية لتثبيتها بإحكام بأرضية حوض الاستحمام، مما يمنع الانزلاق أثناء وقت الاستحمام."
+  },
+  {
+    "id": "sf5",
+    "name_en": "Mothercare Room Thermometer",
+    "name_ar": "مقياس حرارة للغرفة من مذركير",
+    "category": "safety",
+    "age_min_months": 0,
+    "age_max_months": 60,
+    "price_aed": 85,
+    "tags": [
+      "safety",
+      "health",
+      "nursery",
+      "temperature"
+    ],
+    "description_en": "An easy-to-read digital room thermometer that changes color to help you instantly know if the nursery is at a safe, comfortable temperature.",
+    "description_ar": "مقياس حرارة رقمي للغرفة سهل القراءة يتغير لونه لمساعدتك على معرفة ما إذا كانت غرفة الطفل في درجة حرارة آمنة ومريحة على الفور."
+  },
+  {
+    "id": "sf6",
+    "name_en": "Fisher-Price Bed Rail",
+    "name_ar": "حاجز سرير من فيشر برايس",
+    "category": "safety",
+    "age_min_months": 18,
+    "age_max_months": 60,
+    "price_aed": 160,
+    "tags": [
+      "safety",
+      "sleep",
+      "toddler-bed",
+      "protection"
+    ],
+    "description_en": "A sturdy, fold-down bed rail that provides security when transitioning your toddler from a crib to a big-kid bed, preventing nighttime falls.",
+    "description_ar": "حاجز سرير قوي قابل للطي يوفر الأمان عند نقل طفلك الصغير من سرير الأطفال إلى سرير الأطفال الأكبر سناً، مما يمنع السقوط ليلاً."
+  },
+  {
+    "id": "sf7",
+    "name_en": "NUK Baby Healthcare Kit",
+    "name_ar": "مجموعة الرعاية الصحية للأطفال من نوك",
+    "category": "safety",
+    "age_min_months": 0,
+    "age_max_months": 36,
+    "price_aed": 130,
+    "tags": [
+      "safety",
+      "health",
+      "medicine",
+      "essential"
+    ],
+    "description_en": "A comprehensive healthcare kit including a medicine syringe, pacifier medicine dispenser, and digital thermometer for safely administering care when baby is sick.",
+    "description_ar": "مجموعة رعاية صحية شاملة تتضمن حقنة دواء، وموزع دواء على شكل لهاية، ومقياس حرارة رقمي لتقديم الرعاية بأمان عندما يكون الطفل مريضاً."
+  },
+  {
+    "id": "sf8",
+    "name_en": "Pigeon Socket Covers (Pack of 10)",
+    "name_ar": "أغطية مقابس كهربائية من بيجون (عبوة من 10 قطع)",
+    "category": "safety",
+    "age_min_months": 6,
+    "age_max_months": 36,
+    "price_aed": 30,
+    "tags": [
+      "safety",
+      "home-proofing",
+      "electrical"
+    ],
+    "description_en": "Simple plug-in covers that block access to electrical sockets, keeping little fingers safe from electric shocks.",
+    "description_ar": "أغطية بسيطة تُركب بالضغط تمنع الوصول إلى المقابس الكهربائية، مما يحافظ على سلامة الأصابع الصغيرة من الصدمات الكهربائية."
+  },
+  {
+    "id": "f8",
+    "name_en": "Medela Freestyle Breast Pump",
+    "name_ar": "مضخة الثدي فريستايل من ميديلا",
+    "category": "feeding",
+    "age_min_months": 0,
+    "age_max_months": 12,
+    "price_aed": 480,
+    "tags": [
+      "feeding",
+      "breastfeeding",
+      "pump",
+      "electric"
+    ],
+    "description_en": "A compact, double electric breast pump designed for everyday use. Features a rechargeable battery and lightweight motor for pumping on the go.",
+    "description_ar": "مضخة ثدي كهربائية مزدوجة ومدمجة مصممة للاستخدام اليومي. تتميز ببطارية قابلة لإعادة الشحن ومحرك خفيف الوزن للضخ أثناء التنقل."
+  },
+  {
+    "id": "t8",
+    "name_en": "VTech Sit-to-Stand Learning Walker",
+    "name_ar": "مشاية تعليمية للأطفال للجلوس والوقوف من في تيك",
+    "category": "toys",
+    "age_min_months": 9,
+    "age_max_months": 36,
+    "price_aed": 220,
+    "tags": [
+      "toys",
+      "walking",
+      "educational",
+      "interactive"
+    ],
+    "description_en": "An interactive learning walker that features a removable play panel with music, shapes, and animal sounds to encourage early walking.",
+    "description_ar": "مشاية تعليمية تفاعلية تتميز بلوحة لعب قابلة للإزالة مع موسيقى وأشكال وأصوات حيوانات لتشجيع المشي المبكر."
+  },
+  {
+    "id": "c8",
+    "name_en": "Mothercare Baby Swimsuit with UPF 50+",
+    "name_ar": "ملابس سباحة للأطفال بعامل حماية UPF 50+ من مذركير",
+    "category": "clothing",
+    "age_min_months": 6,
+    "age_max_months": 36,
+    "price_aed": 85,
+    "tags": [
+      "clothing",
+      "swim",
+      "summer",
+      "sun-protection"
+    ],
+    "description_en": "A bright and comfortable one-piece swimsuit offering UPF 50+ sun protection. Perfect for beach days or pool fun.",
+    "description_ar": "ملابس سباحة زاهية ومريحة من قطعة واحدة توفر حماية من أشعة الشمس بعامل حماية UPF 50+. مثالية لأيام الشاطئ أو المرح في المسبح."
+  },
+  {
+    "id": "s8",
+    "name_en": "Sudocrem Antiseptic Healing Cream, 125g",
+    "name_ar": "كريم سودوكريم المطهر المعالج، 125 جم",
+    "category": "skincare",
+    "age_min_months": 0,
+    "age_max_months": 60,
+    "price_aed": 38,
+    "tags": [
+      "skincare",
+      "diaper-rash",
+      "healing",
+      "essential"
+    ],
+    "description_en": "A versatile healing cream that soothes and protects sensitive skin from diaper rash, cuts, and minor burns. A must-have in any nursery.",
+    "description_ar": "كريم معالج متعدد الاستخدامات يهدئ ويحمي البشرة الحساسة من طفح الحفاض والجروح والحروق الطفيفة. لا غنى عنه في غرفة أي طفل."
+  },
+  {
+    "id": "n8",
+    "name_en": "Mamas & Papas Changing Mat",
+    "name_ar": "حصيرة تغيير الحفاضات من ماماز وباباز",
+    "category": "nursery",
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "price_aed": 70,
+    "tags": [
+      "nursery",
+      "changing",
+      "wipe-clean",
+      "padded"
+    ],
+    "description_en": "A thickly padded, waterproof changing mat with raised edges for comfort and safety during diaper changes. Easy to wipe clean.",
+    "description_ar": "حصيرة تغيير حفاضات مبطنة سميكة ومقاومة للماء بحواف مرتفعة لتوفير الراحة والأمان أثناء تغيير الحفاضات. يسهل مسحها وتنظيفها."
+  },
+  {
+    "id": "tr8",
+    "name_en": "Chicco KeyFit Infant Car Seat",
+    "name_ar": "مقعد سيارة للرضع كي فيت من شيكو",
+    "category": "travel",
+    "age_min_months": 0,
+    "age_max_months": 12,
+    "price_aed": 495,
+    "tags": [
+      "travel",
+      "car-seat",
+      "safety",
+      "infant"
+    ],
+    "description_en": "A highly-rated infant car seat that is easy to install correctly every time. Features plush infant inserts and a 5-point harness.",
+    "description_ar": "مقعد سيارة للرضع عالي التقييم يسهل تركيبه بشكل صحيح في كل مرة. يتميز ببطانات قطيفة للرضع وحزام أمان خماسي النقاط."
+  },
+  {
+    "id": "sf9",
+    "name_en": "Dreambaby Window Locks (Pack of 2)",
+    "name_ar": "أقفال نوافذ من دريم بيبي (عبوة من قطعتين)",
+    "category": "safety",
+    "age_min_months": 12,
+    "age_max_months": 60,
+    "price_aed": 45,
+    "tags": [
+      "safety",
+      "home-proofing",
+      "window",
+      "security"
+    ],
+    "description_en": "Adjustable window restrictors that prevent windows from opening fully, keeping active toddlers safe from accidental falls.",
+    "description_ar": "مقيدات نوافذ قابلة للتعديل تمنع النوافذ من الفتح بالكامل، مما يحافظ على سلامة الأطفال الصغار النشطين من السقوط العرضي."
+  },
+  {
+    "id": "t9",
+    "name_en": "Fat Brain Toys Dimpl",
+    "name_ar": "لعبة ديمبل من فات برين تويز",
+    "category": "toys",
+    "age_min_months": 6,
+    "age_max_months": 36,
+    "price_aed": 65,
+    "tags": [
+      "toys",
+      "sensory",
+      "fidget",
+      "fine-motor"
+    ],
+    "description_en": "A colorful, sensory toy featuring silicone bubbles built into a sturdy plastic frame. Great for keeping little hands busy and developing fine motor skills.",
+    "description_ar": "لعبة حسية ملونة تتميز بفقاعات سيليكون مدمجة في إطار بلاستيكي متين. رائعة لإبقاء الأيدي الصغيرة مشغولة وتطوير المهارات الحركية الدقيقة."
+  }
+]
